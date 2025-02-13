@@ -1,1 +1,1 @@
-# Geographic-Coordinate-Finder
+The Geographic Coordinate Finder is a Python-based tool that retrieves the latitude and longitude of a given location using the geopy library and saves the results to a file for future reference. The program prompts users to enter a location name, fetches the corresponding geographic coordinates via the Nominatim geocoder, and stores the retrieved data in a local text file.
